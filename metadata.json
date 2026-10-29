@@ -1,0 +1,6 @@
+{
+  "name": "Global Fuel Prices and Taxation Trends Analytics",
+  "description": "Comprehensive interactive analytics, Tableau dashboard, and scenario-driven insights for global fuel pricing, taxation, and subsidy trends across 84 countries and 7 regions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
